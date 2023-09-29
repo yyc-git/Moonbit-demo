@@ -1,0 +1,42 @@
+* record
+
+share arraybuffer between js, wasm
+
+create adapter, device in js
+
+
+* DONE 调研基于Moonbit做web3d（webgpu）
+
+
+# TODO run first program
+
+# TODO run game
+
+
+# TODO 回复zhb
+#     # TODO 开发Moonbit的web3d/webgpu相关的扩展/组件？
+#     use Moonbit IDE to dev "render a triangle with webgl, webgpu"
+
+
+* DONE use Moonbit IDE to dev get webgl, webgpu context
+
+
+* DONE 看黄的资料，如何用wasm实现webgpu（优化版）？
+
+
+# * TODO use Moonbit IDE to dev "render a triangle with webgl"
+
+
+
+* DONE use Moonbit IDE to dev "render a triangle with webgpu"
+
+
+# * TODO webgpu benchmark
+
+
+* TODO compute update transform job benchmark
+
+
+# * TODO use Moonbit IDE to dev "webgpu sample"
+
+
