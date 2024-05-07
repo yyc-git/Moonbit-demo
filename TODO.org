@@ -34,9 +34,20 @@ create adapter, device in js
 # * TODO webgpu benchmark
 
 
-* TODO compute update transform job benchmark
+# * TODO compute update transform job benchmark
 
 
 # * TODO use Moonbit IDE to dev "webgpu sample"
 
 
+
+
+* TODO learn Moonbit
+
+
+* TODO learn Moonbit -> Js Backend
+
+
+* TODO learn taichi.js
+
+TODO can Moonbit generate like it?
